@@ -63,3 +63,7 @@ http://stalker018.deviantart.com/art/MMII-FLAT-icons-Vol-1-376035760
 https://www.vectoropenstock.com/vectors/preview/74100/56-computer-long-shadow-circle-icons
 
 
+
+
+-----------------------------------
+http://www.mediafire.com/download/s1frr1aooq56q7k/GuardarMostrarImagen.rar
