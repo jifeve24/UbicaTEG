@@ -67,3 +67,11 @@ https://www.vectoropenstock.com/vectors/preview/74100/56-computer-long-shadow-ci
 
 -----------------------------------
 http://www.mediafire.com/download/s1frr1aooq56q7k/GuardarMostrarImagen.rar
+
+
+
+
+
+---------------------------------------
+https://techperu.wordpress.com/2011/10/24/almacenar-y-mostrar-imagenes-vb-net-sql-server/
+PictureBox1.Image = Image.FromFile("C:\image2.jpg")
